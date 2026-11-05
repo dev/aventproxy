@@ -15,7 +15,7 @@ require (
 	github.com/pion/webrtc/v4 v4.2.26
 	github.com/rs/zerolog v1.35.1
 	github.com/spf13/cobra v1.10.2
-	github.com/xtaci/kcp-go/v5 v5.7.2
+	github.com/xtaci/kcp-go/v5 v5.7.3
 	golang.org/x/net v0.62.0
 	golang.org/x/term v0.47.0
 )
